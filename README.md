@@ -13,4 +13,6 @@ $ cordova emulate android
 
 # gerar builds
 
+copie o conteúdo do app para a pasta /www
+
 $ cordova build
